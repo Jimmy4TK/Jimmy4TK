@@ -10,8 +10,10 @@
 - 🗣️ **My English level is Pre intermediate, although I'd like to improve it.**
 
 <h3 align="left">💬 Connect with me:</h3>
-<p align="left">juan.falco@alumnos.frm.utn.edu.ar or juan4falco@gmail.com
-</p>
+ <p align="left">juan.falco@alumnos.frm.utn.edu.ar or juan4falco@gmail.com </p>
+<a href="https://www.linkedin.com/in/juan-ignacio-falco-633243175/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="linkedin" width="40" height="40"/> </a>
+[LinkedIn]("https://www.linkedin.com/in/juan-ignacio-falco-633243175/")
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
