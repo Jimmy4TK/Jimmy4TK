@@ -3,14 +3,12 @@
 
 - 🔭 I’m currently studying on **Universidad Tecnológica Nacional Facultad Regional Mendoza**
 
-- 📫 How to reach me **juan.falco@alumnos.frm.utn.edu.ar or juan4falco@gmail.com**
-
 - 🤝 I’m looking to collaborate on [Picadas Macanudas](https://picadasmacanudas.com/)
 
 - ⚡ Fun fact **I'm outgoing and try to be funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">juan.falco@alumnos.frm.utn.edu.ar or juan4falco@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
