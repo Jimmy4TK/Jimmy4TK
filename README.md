@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I'm outgoing and try to be funny**
 
 - 🗣️ **My English level is Pre intermediate, although I'd like to improve it.**
-- [Linked](https://www.linkedin.com/in/juan-ignacio-falco-633243175/) <a href="https://www.linkedin.com/in/juan-ignacio-falco-633243175/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a> 
+- [Linked](https://www.linkedin.com/in/juan-ignacio-falco-633243175/) <a href="https://www.linkedin.com/in/juan-ignacio-falco-633243175/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20" height="20"/> </a> 
 
 <h3 align="left">💬 Connect with me:</h3>
  <p align="left">juan.falco@alumnos.frm.utn.edu.ar or juan4falco@gmail.com </p> 
